@@ -6,7 +6,9 @@
 
 * * *
 
-## 課程導覽
->專案投放
+## 課程工具
+>[課程投影片](https://docs.google.com/presentation/d/e/2PACX-1vSgTakQ4Iae3BoFL9GzDQyemJ3-TtN13R0G13UBskSSe-bHcONV5qfAngRBbgR4jkSgRpd_HHTpm3yq/pub?start=false&loop=false&delayms=3000&fbclid=IwAR0oFkRfrE4wai-kdP2vs83KLtpnimEMRdjjtf1OKd9zORGXgS5qxYvsvk4&slide=id.g4d3781d1a5_0_468)
 
->觀看教學
+>[Markdown語法筆記](http://westwind.logdown.com/posts/208283-markdown-notes)
+
+>[Anacoda Jupter圖表語法](https://matplotlib.org/index.html)
