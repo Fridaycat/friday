@@ -13,11 +13,11 @@
 
 >Anacoda Jupter圖表語法
 
-+[Matplotlib](https://matplotlib.org/index.html)  
+>> +[Matplotlib](https://matplotlib.org/index.html)  
 
-+[Plotly](https://plot.ly/python/)
+>> +[Plotly](https://plot.ly/python/)
 
-+[Seaborn](https://seaborn.pydata.org/)
+>> +[Seaborn](https://seaborn.pydata.org/)
 
 ***
 
