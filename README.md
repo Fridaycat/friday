@@ -11,4 +11,34 @@
 
 >[Markdown語法筆記](http://westwind.logdown.com/posts/208283-markdown-notes)
 
->[Anacoda Jupter圖表語法](https://matplotlib.org/index.html)
+>Anacoda Jupter圖表語法
+
++[Matplotlib](https://matplotlib.org/index.html)  
+
++[Plotly](https://plot.ly/python/)
+
++[Seaborn](https://seaborn.pydata.org/)
+
+***
+
+#### Day1 練習
+
+統計資料搜尋 (world bank)  
+
+決定主題 (climate change)  
+
+製作圖表  
+
+語法運用  
+
+上台說明  
+
+導師講評  
+
+黑客松說明  
+
+組內分工  
+
+決定小組主題  
+
+#### 一周練習
