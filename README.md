@@ -11,9 +11,8 @@
 
 >[Markdown語法筆記](http://westwind.logdown.com/posts/208283-markdown-notes)
 
->Anacoda Jupter圖表語法
-
-> +[Matplotlib](https://matplotlib.org/index.html)  
+>Anacoda Jupter圖表語法工具  
+  +[Matplotlib](https://matplotlib.org/index.html)  
   +[Plotly](https://plot.ly/python/)  
   +[Seaborn](https://seaborn.pydata.org/) 
 
